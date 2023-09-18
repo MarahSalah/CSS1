@@ -1,0 +1,50 @@
+/* form.css */
+
+
+
+
+p {
+    font-size: 18px;
+}
+
+.orange-link {
+    color: orange;
+    text-decoration: none;
+    border-bottom: 3px solid orange;
+}
+
+.orange-link:hover {
+    text-decoration: underline;
+}
+
+.yellow-background-link {
+    background-color: yellow;
+    color: black; 
+    text-decoration: none;
+    border-bottom: 3px solid red;
+  
+}
+
+.yellow-background-link:hover {
+    background-color: darkorange; 
+    color: white;
+}
+
+
+.red-link {
+    color: red;
+    text-decoration: none;
+    border-bottom: 3px solid red;
+}
+
+
+.red-link:hover {
+    text-decoration: underline;
+    color: red;
+}
+
+
+
+.bold-text {
+    font-weight: bold;
+}

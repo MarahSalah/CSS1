@@ -1,0 +1,21 @@
+.floating{
+    background-color: rgb(233, 233, 233);
+    position:absolute;
+    overflow: hidden; 
+     height: 100PX;
+   
+  
+}
+
+.ScrollArticle{
+    overflow: auto; 
+    height: 55px; 
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    font-weight: bold; 
+    position: absolute;
+    margin-top: 130PX;
+}
